@@ -52,4 +52,13 @@ main {
     border-radius: 100%;
     background-color: rgba(255, 255, 255, 0.3);
     margin: auto;
-    display: inline-block; }
+    display: inline-block;
+    color: #fff;
+    text-shadow: 0 0 6px #333; }
+    main .clock h2, main .clock h3 {
+      font-weight: normal;
+      font-size: 150%; }
+    main .clock h2 {
+      margin-bottom: 0; }
+    main .clock h3 {
+      margin-top: 0; }
