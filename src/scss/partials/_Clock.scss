@@ -1,0 +1,17 @@
+main {
+    display: table-cell;
+    height: 80vh;
+    vertical-align: middle;
+    text-align: center;
+    width: 100vw;
+
+    .clock {
+        width:200px;
+        height:200px;
+        padding:50px;
+        border-radius:100%;
+        background-color:rgba(255,255,255,0.3);
+        margin:auto;
+        display: inline-block;
+    }
+}
